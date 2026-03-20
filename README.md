@@ -1,26 +1,34 @@
-# 🚀 RFP Management System (Technical Proposal Tool)
+# 🚀 Hi, I'm Ahmed | Software Engineer & AI Specialist
 
-A professional full-stack solution designed to streamline the **Request for Proposal (RFP)** process. This tool was developed as part of a high-level technical challenge (Topcoder), showcasing robust architecture and scalable data management.
+Professional Software Engineer focused on building scalable Full-Stack solutions and AI integrations.
 
-## 🛠️ Tech Stack
-* **Backend:** NestJS (Node.js framework)
-* **Frontend:** React.js (Modern UI/UX)
-* **Database:** PostgreSQL
-* **ORM:** Prisma
-* **Environment:** Dockerized setup for consistent deployment
+---
 
-## ✨ Key Features
-* **Automated Proposal Generation:** Efficiently manage and generate technical proposals.
-* **Relational Data Mapping:** Structured database schemas for handling complex RFP metadata.
-* **RESTful API Architecture:** Secure and performant communication between frontend and backend.
-* **Modern UI:** Intuitive interface for tracking project statuses and deadlines.
+## 🛠 Featured Projects
 
-## 📂 Project Structure
-* `/backend`: NestJS source code, Prisma schemas, and business logic.
-* `/frontend`: React components, state management, and styling.
-* `docker-compose.yml`: Automated environment orchestration.
+### 1️⃣ AI-Powered RFP Management System
+* **Tech:** NestJS, React, Gemini AI, Docker, PostgreSQL.
+* **Description:** A full-stack solution to automate proposal analysis and generation using Artificial Intelligence.
+* **Key Feature:** Fully containerized environment for seamless deployment.
 
-## ⚙️ Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/ahmedalapiad2/rfp-management-system.git](https://github.com/ahmedalapiad2/rfp-management-system.git)
+### 2️⃣ Intelligent WhatsApp GPT-Bot
+* **Tech:** Python, Gemini AI API, Excel Integration.
+* **Description:** Automated messaging system that provides AI-driven responses and logs data into structured formats.
+
+### 3️⃣ RFP Management Platform (Topcoder Project)
+* **Tech:** NestJS, PostgreSQL, Docker.
+* **Description:** Specialized system for managing Requests for Proposals with a focus on backend architecture and data integrity.
+
+---
+
+## 🧰 Technical Skills
+* **Languages:** Python, C++, SQL.
+* **Frameworks:** NestJS, React, Next.js.
+* **Tools:** Docker, Git/GitHub, Prisma ORM.
+* **AI:** LLM Integration (Gemini AI).
+
+---
+
+## 📬 Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/ahmed-alapiad-029ab1357)
+* [Portfolio/CV](file:///D:/MyProjects/Programming/index.html)
