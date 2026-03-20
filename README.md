@@ -31,4 +31,4 @@ Professional Software Engineer focused on building scalable Full-Stack solutions
 
 ## 📬 Connect with Me
 * [LinkedIn Profile](https://www.linkedin.com/in/ahmed-alapiad-029ab1357)
-* [View My Professional CV (PDF)](https://raw.githubusercontent.com/ahmedalapiad2-bot/rfp-management-system/main/Ahmed_Alapiad_Final_CV.pdf)
+* [View My Professional CV (PDF)](https://github.com/ahmedalapiad2-bot/rfp-management-system/blob/main/Ahmed_Alapiad_Final_CV.pdf)
