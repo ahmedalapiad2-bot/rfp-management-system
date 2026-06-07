@@ -1,4 +1,4 @@
-# 🚀 Hi, I'm Ahmed | Software Engineer & AI Specialist
+# 🚀 Hi, I'm Ahmed | Full Stack Developer
 
 Professional Software Engineer focused on building scalable Full-Stack solutions and AI integrations.
 
